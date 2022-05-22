@@ -25,7 +25,7 @@ setuptools.setup(
 	# Определяет тип контента, используемый в long_description.
 	long_description_content_type="text/markdown",
 	# URL-адрес, представляющий домашнюю страницу проекта. Большинство проектов ссылаются на репозиторий.
-	url="",
+	url="https://github.com/IgorKrivchik/Email_Finder_Igor.git",
 	# Находит все пакеты внутри проекта и объединяет их в дистрибутив.
 	packages=setuptools.find_packages(),
 	# requirements или dependencies, которые будут установлены вместе с пакетом, когда пользователь установит его через pip.
